@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Marzuk Entsie Sanni</h1>
-<h3 align="center">👋 Hey there! I'm am a passionate Frontend-Developer with a burning passion for web programming. 🕸️ My mission? Crafting scalable and user-friendly web apps that captivate users at first click. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.</h3>
+<h1 align="center"><b>Hi , I'm Marzuk Entsie Sanni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h3 align="center">I'm am a passionate Frontend-Developer with a burning passion for web programming. 🕸️ My mission? Crafting scalable and user-friendly web apps that captivate users at first click. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.</h3>
 
 ##
 
