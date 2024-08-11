@@ -93,6 +93,7 @@ Let's turn your ideas into reality!
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
+![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
@@ -102,6 +103,7 @@ Let's turn your ideas into reality!
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -116,10 +118,9 @@ Let's turn your ideas into reality!
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zukizuk&show_icons=true&locale=en&layout=compact" alt="zukizuk" /></p>
+![my github stats](https://github-readme-stats.vercel.app/api?username=zukizuk&show_icons=true&theme=codeSTACKr)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukizuk&show_icons=true&locale=en" alt="zukizuk" /></p>
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zukizuk&layout=compact&theme=codeSTACKr)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zukizuk&" alt="zukizuk" /></p>
 </div>
 <br>
