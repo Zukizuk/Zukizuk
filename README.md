@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Marzuk Entsie Sanni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">I'm am a passionate Frontend-Developer with a burning passion for web programming. 🕸️ My mission? Crafting scalable and user-friendly web apps that captivate users at first click. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.</h3>
+<h3 align="center">I'm a passionate Frontend Developer and Data Engineer with a burning passion for web programming and data-driven solutions. 🕸️ My mission? Crafting scalable, user-friendly web apps and optimizing data workflows that captivate users and drive impactful insights. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.</h3>
 
 ##
 
@@ -21,7 +21,8 @@
 
 ## 🏆 Goals:
 
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
+- 🚀 Gain experience in developing full-stack applications using **NextJS**.
+- 🚀 Become adept at designing and optimizing data workflows to ensure efficient data management.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 
 ## 🚀 Future Endeavors:
@@ -55,7 +56,7 @@ Let's turn your ideas into reality!
     
 [![Gmail: Marzuk Entsie](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sannimarzuk@gmail.com)](mailto:sannimarzuk@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Zukizuk)](https://www.frontendmentor.io/profile/Zukizuk)&nbsp;
-[![Linkedin: Marzuk Entsie](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marzuk-entsie-0088aa2a8)](https://www.linkedin.com/in/marzuk-entsie-0088aa2a8)
+[![Linkedin: Marzuk Entsie](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marzuk-entsie-0088aa2a8)](https://www.linkedin.com/in/marzuk-entsie-8b1890313/)
 <br>
 
 <div align = "center">
