@@ -73,7 +73,7 @@ Let's turn your ideas into reality!
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 </details>
 
 <details open>
@@ -117,11 +117,10 @@ Let's turn your ideas into reality!
 
 <h2 align="center">📊 Github Stats</h2>
 
-<div align="center">
+<p>&nbsp;</p>
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=zukizuk&show_icons=true&theme=codeSTACKr)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zukizuk&layout=compact&theme=codeSTACKr)
-
+<div>
+    <img alt="Marzuk Entsie's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Zukizuk&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Marzuk Entsie's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zukizuk&theme=dracula&hide_border=true">
 </div>
 <br>
