@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Marzuk Entsie Sanni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">I'm a passionate Web Developer and Data Engineer with a burning passion for web programming and data-driven solutions. 🕸️ My mission? Crafting scalable, user-friendly web apps and optimizing data workflows that captivate users and drive impactful insights. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.</h3>
+<h3 align="center">I'm a dedicated Data Engineer and AI Engineer with roots in web development and a deep passion for building intelligent, data-driven systems. 💡 My mission? Designing scalable architectures, optimizing data pipelines, and leveraging AI to deliver powerful insights and seamless user experiences. 🚀 I thrive on exploring emerging technologies and frameworks to innovate, automate, and solve real-world problems with impact.</h3>
 
 ##
 
